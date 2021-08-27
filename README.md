@@ -22,7 +22,7 @@ I am currently studying,
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white)
 ![Babel](https://img.shields.io/badge/Babel-F9DC3e?style=flat-square&logo=babel&logoColor=black)
 
-I am, a 1st year student at [Kasetsart University](https://www.ku.ac.th/)
+I am, a 1st year Software Engineering student at [Kasetsart University](https://www.ku.ac.th/).
 
 ---
 ### 📊 My Github Stats
