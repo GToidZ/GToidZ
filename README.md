@@ -31,3 +31,4 @@ I am, a 1st year Software Engineering student at [Kasetsart University](https://
 [![Top Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=gtoidz&layout=compact&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
+A proud member of [SKE19](https://github.com/SKE19)
