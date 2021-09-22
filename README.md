@@ -34,11 +34,11 @@ I am, a 1st year Software Engineering student at [Kasetsart University](https://
 ### 🌠 Recent Activities
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#23](https://github.com/Noboomta/KU-Table/issues/23) in [Noboomta/KU-Table](https://github.com/Noboomta/KU-Table)
-2. 💪 Opened PR [#22](https://github.com/Noboomta/KU-Table/pull/22) in [Noboomta/KU-Table](https://github.com/Noboomta/KU-Table)
-3. 🎉 Merged PR [#3](https://github.com/SKE19/Code-collection/pull/3) in [SKE19/Code-collection](https://github.com/SKE19/Code-collection)
-4. ❌ Reopened PR [#3](https://github.com/SKE19/Code-collection/pull/3) in [SKE19/Code-collection](https://github.com/SKE19/Code-collection)
-5. 🗣 Commented on [#3](https://github.com/SKE19/Code-collection/issues/3) in [SKE19/Code-collection](https://github.com/SKE19/Code-collection)
+1. 🎉 Merged PR [#1](https://github.com/SKE19/SKE19-API/pull/1) in [SKE19/SKE19-API](https://github.com/SKE19/SKE19-API)
+2. 💪 Opened PR [#1](https://github.com/SKE19/SKE19-API/pull/1) in [SKE19/SKE19-API](https://github.com/SKE19/SKE19-API)
+3. ❗️ Opened issue [#23](https://github.com/Noboomta/KU-Table/issues/23) in [Noboomta/KU-Table](https://github.com/Noboomta/KU-Table)
+4. 💪 Opened PR [#22](https://github.com/Noboomta/KU-Table/pull/22) in [Noboomta/KU-Table](https://github.com/Noboomta/KU-Table)
+5. 🎉 Merged PR [#3](https://github.com/SKE19/Code-collection/pull/3) in [SKE19/Code-collection](https://github.com/SKE19/Code-collection)
 <!--END_SECTION:activity-->
 
 ---
