@@ -26,7 +26,7 @@ I am, a 1st year Software Engineering student at [Kasetsart University](https://
 
 ---
 ### 📊 My Github Stats
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gtoidz&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gtoidz&theme=synthwave&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=gtoidz&layout=compact&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 
