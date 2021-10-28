@@ -42,4 +42,4 @@ I am, a 1st year Software Engineering student at [Kasetsart University](https://
 <!--END_SECTION:activity-->
 
 ---
-A proud member of [SKE19](https://github.com/SKE19)
+An organization lead at [Secret Order](https://github.com/Secret-Order)
