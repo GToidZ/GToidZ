@@ -8,6 +8,8 @@
 ---
 ### 👋 Hello, I'm [GToidZ](https://github.com/GToidZ)
 
+**🇹🇭 / 🇬🇧 | ACT54'37 | KU81 SKE19**
+
 I have experienced and coded a project with,
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
@@ -22,7 +24,7 @@ I am currently studying,
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white)
 ![Babel](https://img.shields.io/badge/Babel-F9DC3e?style=flat-square&logo=babel&logoColor=black)
 
-I am, a 1st year Software Engineering student at [Kasetsart University](https://www.ku.ac.th/).
+I am, an undergraduate Software and Knowledge Engineering student at [Kasetsart University](https://www.ku.ac.th/).
 
 ---
 ### 📊 My Github Stats
@@ -31,14 +33,13 @@ I am, a 1st year Software Engineering student at [Kasetsart University](https://
 [![Top Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=gtoidz&layout=compact&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
+### 📋 My Ongoing Projects
+None yet, semester 2 has just started and I need some time to see if I can give my time to any of my projects. Stick around as there will be projects announced on Github!
+
+---
 ### 🌠 Recent Activities
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/SKE19/SKE19-API/pull/2) in [SKE19/SKE19-API](https://github.com/SKE19/SKE19-API)
-2. 💪 Opened PR [#2](https://github.com/SKE19/SKE19-API/pull/2) in [SKE19/SKE19-API](https://github.com/SKE19/SKE19-API)
-3. 🎉 Merged PR [#1](https://github.com/SKE19/SKE19-API/pull/1) in [SKE19/SKE19-API](https://github.com/SKE19/SKE19-API)
-4. 💪 Opened PR [#1](https://github.com/SKE19/SKE19-API/pull/1) in [SKE19/SKE19-API](https://github.com/SKE19/SKE19-API)
-5. ❗️ Opened issue [#23](https://github.com/Noboomta/KU-Table/issues/23) in [Noboomta/KU-Table](https://github.com/Noboomta/KU-Table)
 <!--END_SECTION:activity-->
 
 ---
