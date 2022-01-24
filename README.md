@@ -40,6 +40,10 @@ None yet, semester 2 has just started and I need some time to see if I can give 
 ### 🌠 Recent Activities
 
 <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#3](https://github.com/Secret-Order/SKE19-Project-Archive/pull/3) in [Secret-Order/SKE19-Project-Archive](https://github.com/Secret-Order/SKE19-Project-Archive)
+2. ❗️ Closed issue [#2](https://github.com/Secret-Order/SKE19-Project-Archive/issues/2) in [Secret-Order/SKE19-Project-Archive](https://github.com/Secret-Order/SKE19-Project-Archive)
+3. ❗️ Opened issue [#2](https://github.com/Secret-Order/SKE19-Project-Archive/issues/2) in [Secret-Order/SKE19-Project-Archive](https://github.com/Secret-Order/SKE19-Project-Archive)
+4. 🎉 Merged PR [#1](https://github.com/Secret-Order/SKE19-Project-Archive/pull/1) in [Secret-Order/SKE19-Project-Archive](https://github.com/Secret-Order/SKE19-Project-Archive)
 <!--END_SECTION:activity-->
 
 ---
