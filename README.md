@@ -40,10 +40,10 @@ None yet, semester 2 has just started and I need some time to see if I can give 
 ### 🌠 Recent Activities
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#4](https://github.com/Secret-Order/SKE19-Project-Archive/pull/4) in [Secret-Order/SKE19-Project-Archive](https://github.com/Secret-Order/SKE19-Project-Archive)
-2. 🎉 Merged PR [#3](https://github.com/Secret-Order/SKE19-Project-Archive/pull/3) in [Secret-Order/SKE19-Project-Archive](https://github.com/Secret-Order/SKE19-Project-Archive)
-3. ❗️ Closed issue [#2](https://github.com/Secret-Order/SKE19-Project-Archive/issues/2) in [Secret-Order/SKE19-Project-Archive](https://github.com/Secret-Order/SKE19-Project-Archive)
-4. ❗️ Opened issue [#2](https://github.com/Secret-Order/SKE19-Project-Archive/issues/2) in [Secret-Order/SKE19-Project-Archive](https://github.com/Secret-Order/SKE19-Project-Archive)
+1. 🎉 Merged PR [#6](https://github.com/Secret-Order/SKE19-Project-Archive/pull/6) in [Secret-Order/SKE19-Project-Archive](https://github.com/Secret-Order/SKE19-Project-Archive)
+2. 🗣 Commented on [#5](https://github.com/Secret-Order/SKE19-Project-Archive/issues/5) in [Secret-Order/SKE19-Project-Archive](https://github.com/Secret-Order/SKE19-Project-Archive)
+3. 🗣 Commented on [#5](https://github.com/Secret-Order/SKE19-Project-Archive/issues/5) in [Secret-Order/SKE19-Project-Archive](https://github.com/Secret-Order/SKE19-Project-Archive)
+4. ❗️ Closed issue [#5](https://github.com/Secret-Order/SKE19-Project-Archive/issues/5) in [Secret-Order/SKE19-Project-Archive](https://github.com/Secret-Order/SKE19-Project-Archive)
 <!--END_SECTION:activity-->
 
 ---
