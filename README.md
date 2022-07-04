@@ -1,5 +1,7 @@
 ❤ *use dark theme!* q(≧▽≦q)
 
+Bruh, I won't stop bragging about ![Vim](https://img.shields.io/badge/VIM-%23019733.svg?style=flat-square&logo=vim&logoColor=white), help.
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/GToidZ/GToidZ/master/gtoidz-github.png" alt="Logo">
   <p align="center"><i>A learner and a hobbyist developer from Thailand.</i></p>
