@@ -17,14 +17,13 @@ I have experienced and coded a project with,
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white)
 
 I am currently studying,
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
-![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=flat-square&logo=redux&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white)
-![Babel](https://img.shields.io/badge/Babel-F9DC3e?style=flat-square&logo=babel&logoColor=black)
+![Rust](https://img.shields.io/badge/rust-%23F46623.svg?style=flat-square&logo=rust&logoColor=white)
+![Discord API](https://img.shields.io/badge/discord%20api-%235865F2.svg?style=flat-square&logo=discord&logoColor=white)
 
-I am, an undergraduate Software and Knowledge Engineering student at [Kasetsart University](https://www.ku.ac.th/).
+I am currently a sophomore in Software and Knowledge Engineering at [Kasetsart University](https://www.ku.ac.th/).
 
 ---
 ### 📊 My Github Stats
@@ -34,7 +33,7 @@ I am, an undergraduate Software and Knowledge Engineering student at [Kasetsart 
 
 ---
 ### 📋 My Ongoing Projects
-None yet, semester 2 has just started and I need some time to see if I can give my time to any of my projects. Stick around as there will be projects announced on Github!
+Will be here soon enough.
 
 ---
 ### 🌠 Recent Activities
