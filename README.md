@@ -41,9 +41,9 @@ Will be here soon enough.
 ### 🌠 Recent Activities
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#55](https://github.com/Faboslav/friends-and-foes/issues/55) in [Faboslav/friends-and-foes](https://github.com/Faboslav/friends-and-foes)
-2. 🎉 Merged PR [#6](https://github.com/Secret-Order/SKE19-Project-Archive/pull/6) in [Secret-Order/SKE19-Project-Archive](https://github.com/Secret-Order/SKE19-Project-Archive)
-3. 🗣 Commented on [#5](https://github.com/Secret-Order/SKE19-Project-Archive/issues/5) in [Secret-Order/SKE19-Project-Archive](https://github.com/Secret-Order/SKE19-Project-Archive)
+1. 🗣 Commented on [#55](https://github.com/Faboslav/friends-and-foes/issues/55) in [Faboslav/friends-and-foes](https://github.com/Faboslav/friends-and-foes)
+2. ❗️ Opened issue [#55](https://github.com/Faboslav/friends-and-foes/issues/55) in [Faboslav/friends-and-foes](https://github.com/Faboslav/friends-and-foes)
+3. 🎉 Merged PR [#6](https://github.com/Secret-Order/SKE19-Project-Archive/pull/6) in [Secret-Order/SKE19-Project-Archive](https://github.com/Secret-Order/SKE19-Project-Archive)
 4. ❗️ Closed issue [#5](https://github.com/Secret-Order/SKE19-Project-Archive/issues/5) in [Secret-Order/SKE19-Project-Archive](https://github.com/Secret-Order/SKE19-Project-Archive)
 <!--END_SECTION:activity-->
 
