@@ -8,7 +8,14 @@ Bruh, I won't stop bragging about ![Vim](https://img.shields.io/badge/VIM-%23019
 </p>
 
 ---
+
+<details>
+
+<summary>
+
 ### 👋 Hello, I'm [GToidZ](https://github.com/GToidZ)
+  
+</summary>
 
 **🇹🇭 / 🇬🇧 | ACT54'37 | KU81 SKE19**
 
@@ -27,18 +34,47 @@ I am currently studying,
 
 I am currently a sophomore in Software and Knowledge Engineering at [Kasetsart University](https://www.ku.ac.th/).
 
+</details>
+
 ---
-### 📊 My Github Stats
+
+<details>
+
+<summary>
+
+  ### 📊 My Github Stats
+
+</summary>
+
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gtoidz&theme=synthwave&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=gtoidz&layout=compact&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 
----
-### 📋 My Ongoing Projects
-Will be here soon enough.
+</details>
 
 ---
+
+<details>
+
+<summary>
+
+### 📋 My Ongoing Projects
+
+</summary>
+
+Will be here soon enough.
+
+</details>
+
+---
+
+<details>
+
+<summary>
+  
 ### 🌠 Recent Activities
+
+</summary>
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#55](https://github.com/Faboslav/friends-and-foes/issues/55) in [Faboslav/friends-and-foes](https://github.com/Faboslav/friends-and-foes)
@@ -46,6 +82,8 @@ Will be here soon enough.
 3. 🎉 Merged PR [#6](https://github.com/Secret-Order/SKE19-Project-Archive/pull/6) in [Secret-Order/SKE19-Project-Archive](https://github.com/Secret-Order/SKE19-Project-Archive)
 4. ❗️ Closed issue [#5](https://github.com/Secret-Order/SKE19-Project-Archive/issues/5) in [Secret-Order/SKE19-Project-Archive](https://github.com/Secret-Order/SKE19-Project-Archive)
 <!--END_SECTION:activity-->
+
+</details>
 
 ---
 An organization lead at [Secret Order](https://github.com/Secret-Order)
