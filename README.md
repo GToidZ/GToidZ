@@ -13,9 +13,13 @@ Bruh, I won't stop bragging about ![Vim](https://img.shields.io/badge/VIM-%23019
 
 <summary>
 
-### 👋 Hello, I'm [GToidZ](https://github.com/GToidZ)
-  
+### 👋 Hello, I'm [GToidZ](https://github.com/GToidZ) (/dʒi:tɔɪdz/)
+
 </summary>
+
+You could also call me, Pawitchaya or Float.
+
+<br />
 
 **🇹🇭 / 🇬🇧 | ACT54'37 | KU81 SKE19**
 
