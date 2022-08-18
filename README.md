@@ -77,10 +77,10 @@ Will be here soon enough.
 </summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#7](https://github.com/GToidZ/ku-cafe/pull/7) in [GToidZ/ku-cafe](https://github.com/GToidZ/ku-cafe)
-2. ❗️ Opened issue [#6](https://github.com/GToidZ/ku-cafe/issues/6) in [GToidZ/ku-cafe](https://github.com/GToidZ/ku-cafe)
-3. ❗️ Opened issue [#5](https://github.com/GToidZ/ku-cafe/issues/5) in [GToidZ/ku-cafe](https://github.com/GToidZ/ku-cafe)
-4. ❗️ Opened issue [#4](https://github.com/GToidZ/ku-cafe/issues/4) in [GToidZ/ku-cafe](https://github.com/GToidZ/ku-cafe)
+1. ❗️ Closed issue [#2](https://github.com/GToidZ/ku-cafe/issues/2) in [GToidZ/ku-cafe](https://github.com/GToidZ/ku-cafe)
+2. 🗣 Commented on [#2](https://github.com/GToidZ/ku-cafe/issues/2) in [GToidZ/ku-cafe](https://github.com/GToidZ/ku-cafe)
+3. ❗️ Closed issue [#1](https://github.com/GToidZ/ku-cafe/issues/1) in [GToidZ/ku-cafe](https://github.com/GToidZ/ku-cafe)
+4. 🗣 Commented on [#1](https://github.com/GToidZ/ku-cafe/issues/1) in [GToidZ/ku-cafe](https://github.com/GToidZ/ku-cafe)
 <!--END_SECTION:activity-->
 
 </details>
