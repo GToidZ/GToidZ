@@ -77,10 +77,10 @@ Will be here soon enough.
 </summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#55](https://github.com/Faboslav/friends-and-foes/issues/55) in [Faboslav/friends-and-foes](https://github.com/Faboslav/friends-and-foes)
-2. ❗️ Opened issue [#55](https://github.com/Faboslav/friends-and-foes/issues/55) in [Faboslav/friends-and-foes](https://github.com/Faboslav/friends-and-foes)
-3. 🎉 Merged PR [#6](https://github.com/Secret-Order/SKE19-Project-Archive/pull/6) in [Secret-Order/SKE19-Project-Archive](https://github.com/Secret-Order/SKE19-Project-Archive)
-4. ❗️ Closed issue [#5](https://github.com/Secret-Order/SKE19-Project-Archive/issues/5) in [Secret-Order/SKE19-Project-Archive](https://github.com/Secret-Order/SKE19-Project-Archive)
+1. 💪 Opened PR [#7](https://github.com/GToidZ/ku-cafe/pull/7) in [GToidZ/ku-cafe](https://github.com/GToidZ/ku-cafe)
+2. ❗️ Opened issue [#6](https://github.com/GToidZ/ku-cafe/issues/6) in [GToidZ/ku-cafe](https://github.com/GToidZ/ku-cafe)
+3. ❗️ Opened issue [#5](https://github.com/GToidZ/ku-cafe/issues/5) in [GToidZ/ku-cafe](https://github.com/GToidZ/ku-cafe)
+4. ❗️ Opened issue [#4](https://github.com/GToidZ/ku-cafe/issues/4) in [GToidZ/ku-cafe](https://github.com/GToidZ/ku-cafe)
 <!--END_SECTION:activity-->
 
 </details>
