@@ -81,10 +81,10 @@ Will be here soon enough.
 </summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#57](https://github.com/Faboslav/friends-and-foes/issues/57) in [Faboslav/friends-and-foes](https://github.com/Faboslav/friends-and-foes)
-2. 🗣 Commented on [#6](https://github.com/GToidZ/ku-cafe/issues/6) in [GToidZ/ku-cafe](https://github.com/GToidZ/ku-cafe)
-3. ❗️ Closed issue [#6](https://github.com/GToidZ/ku-cafe/issues/6) in [GToidZ/ku-cafe](https://github.com/GToidZ/ku-cafe)
-4. 🗣 Commented on [#3](https://github.com/GToidZ/ku-cafe/issues/3) in [GToidZ/ku-cafe](https://github.com/GToidZ/ku-cafe)
+1. ❗️ Opened issue [#1](https://github.com/RyukungG/homework-reminder-discord-bot/issues/1) in [RyukungG/homework-reminder-discord-bot](https://github.com/RyukungG/homework-reminder-discord-bot)
+2. 🗣 Commented on [#57](https://github.com/Faboslav/friends-and-foes/issues/57) in [Faboslav/friends-and-foes](https://github.com/Faboslav/friends-and-foes)
+3. 🗣 Commented on [#6](https://github.com/GToidZ/ku-cafe/issues/6) in [GToidZ/ku-cafe](https://github.com/GToidZ/ku-cafe)
+4. ❗️ Closed issue [#6](https://github.com/GToidZ/ku-cafe/issues/6) in [GToidZ/ku-cafe](https://github.com/GToidZ/ku-cafe)
 <!--END_SECTION:activity-->
 
 </details>
