@@ -81,10 +81,10 @@ Will be here soon enough.
 </summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1](https://github.com/GToidZ/ku-polls/issues/1) in [GToidZ/ku-polls](https://github.com/GToidZ/ku-polls)
-2. ❗️ Opened issue [#1](https://github.com/RyukungG/homework-reminder-discord-bot/issues/1) in [RyukungG/homework-reminder-discord-bot](https://github.com/RyukungG/homework-reminder-discord-bot)
-3. 🗣 Commented on [#57](https://github.com/Faboslav/friends-and-foes/issues/57) in [Faboslav/friends-and-foes](https://github.com/Faboslav/friends-and-foes)
-4. 🗣 Commented on [#6](https://github.com/GToidZ/ku-cafe/issues/6) in [GToidZ/ku-cafe](https://github.com/GToidZ/ku-cafe)
+1. ❗️ Opened issue [#7](https://github.com/GToidZ/ku-polls/issues/7) in [GToidZ/ku-polls](https://github.com/GToidZ/ku-polls)
+2. ❗️ Opened issue [#6](https://github.com/GToidZ/ku-polls/issues/6) in [GToidZ/ku-polls](https://github.com/GToidZ/ku-polls)
+3. ❗️ Opened issue [#5](https://github.com/GToidZ/ku-polls/issues/5) in [GToidZ/ku-polls](https://github.com/GToidZ/ku-polls)
+4. ❗️ Opened issue [#4](https://github.com/GToidZ/ku-polls/issues/4) in [GToidZ/ku-polls](https://github.com/GToidZ/ku-polls)
 <!--END_SECTION:activity-->
 
 </details>
