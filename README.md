@@ -81,10 +81,10 @@ Will be here soon enough.
 </summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#23](https://github.com/GToidZ/ku-polls/issues/23) in [GToidZ/ku-polls](https://github.com/GToidZ/ku-polls)
-2. ❗️ Closed issue [#16](https://github.com/GToidZ/ku-polls/issues/16) in [GToidZ/ku-polls](https://github.com/GToidZ/ku-polls)
-3. ❗️ Closed issue [#19](https://github.com/GToidZ/ku-polls/issues/19) in [GToidZ/ku-polls](https://github.com/GToidZ/ku-polls)
-4. ❗️ Closed issue [#17](https://github.com/GToidZ/ku-polls/issues/17) in [GToidZ/ku-polls](https://github.com/GToidZ/ku-polls)
+1. ❗️ Closed issue [#25](https://github.com/GToidZ/ku-polls/issues/25) in [GToidZ/ku-polls](https://github.com/GToidZ/ku-polls)
+2. 🎉 Merged PR [#26](https://github.com/GToidZ/ku-polls/pull/26) in [GToidZ/ku-polls](https://github.com/GToidZ/ku-polls)
+3. 💪 Opened PR [#26](https://github.com/GToidZ/ku-polls/pull/26) in [GToidZ/ku-polls](https://github.com/GToidZ/ku-polls)
+4. ❗️ Opened issue [#25](https://github.com/GToidZ/ku-polls/issues/25) in [GToidZ/ku-polls](https://github.com/GToidZ/ku-polls)
 <!--END_SECTION:activity-->
 
 </details>
