@@ -81,10 +81,10 @@ Will be here soon enough.
 </summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#32](https://github.com/GToidZ/ku-polls/issues/32) in [GToidZ/ku-polls](https://github.com/GToidZ/ku-polls)
-2. ❗️ Closed issue [#31](https://github.com/GToidZ/ku-polls/issues/31) in [GToidZ/ku-polls](https://github.com/GToidZ/ku-polls)
-3. ❗️ Closed issue [#33](https://github.com/GToidZ/ku-polls/issues/33) in [GToidZ/ku-polls](https://github.com/GToidZ/ku-polls)
-4. ❗️ Closed issue [#34](https://github.com/GToidZ/ku-polls/issues/34) in [GToidZ/ku-polls](https://github.com/GToidZ/ku-polls)
+1. ❗️ Opened issue [#14](https://github.com/JaofourthsOhappy/ku-polls/issues/14) in [JaofourthsOhappy/ku-polls](https://github.com/JaofourthsOhappy/ku-polls)
+2. ❗️ Opened issue [#13](https://github.com/JaofourthsOhappy/ku-polls/issues/13) in [JaofourthsOhappy/ku-polls](https://github.com/JaofourthsOhappy/ku-polls)
+3. ❗️ Opened issue [#12](https://github.com/JaofourthsOhappy/ku-polls/issues/12) in [JaofourthsOhappy/ku-polls](https://github.com/JaofourthsOhappy/ku-polls)
+4. ❗️ Opened issue [#11](https://github.com/JaofourthsOhappy/ku-polls/issues/11) in [JaofourthsOhappy/ku-polls](https://github.com/JaofourthsOhappy/ku-polls)
 <!--END_SECTION:activity-->
 
 </details>
