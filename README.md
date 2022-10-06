@@ -81,10 +81,10 @@ Will be here soon enough.
 </summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#2](https://github.com/cpske/ISP/issues/2) in [cpske/ISP](https://github.com/cpske/ISP)
-2. ❗️ Closed issue [#39](https://github.com/GToidZ/ku-polls/issues/39) in [GToidZ/ku-polls](https://github.com/GToidZ/ku-polls)
-3. ❗️ Closed issue [#40](https://github.com/GToidZ/ku-polls/issues/40) in [GToidZ/ku-polls](https://github.com/GToidZ/ku-polls)
-4. ❗️ Closed issue [#41](https://github.com/GToidZ/ku-polls/issues/41) in [GToidZ/ku-polls](https://github.com/GToidZ/ku-polls)
+1. ❗️ Closed issue [#1](https://github.com/WongNung/WongNung/issues/1) in [WongNung/WongNung](https://github.com/WongNung/WongNung)
+2. 🗣 Commented on [#1](https://github.com/WongNung/WongNung/issues/1) in [WongNung/WongNung](https://github.com/WongNung/WongNung)
+3. ❗️ Opened issue [#2](https://github.com/cpske/ISP/issues/2) in [cpske/ISP](https://github.com/cpske/ISP)
+4. ❗️ Closed issue [#39](https://github.com/GToidZ/ku-polls/issues/39) in [GToidZ/ku-polls](https://github.com/GToidZ/ku-polls)
 <!--END_SECTION:activity-->
 
 </details>
