@@ -81,10 +81,10 @@ Will be here soon enough.
 </summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#1](https://github.com/GToidZ/demo-pyci/issues/1) in [GToidZ/demo-pyci](https://github.com/GToidZ/demo-pyci)
-2. 🗣 Commented on [#1](https://github.com/GToidZ/demo-pyci/issues/1) in [GToidZ/demo-pyci](https://github.com/GToidZ/demo-pyci)
-3. 🎉 Merged PR [#48](https://github.com/GToidZ/ku-polls/pull/48) in [GToidZ/ku-polls](https://github.com/GToidZ/ku-polls)
-4. 💪 Opened PR [#48](https://github.com/GToidZ/ku-polls/pull/48) in [GToidZ/ku-polls](https://github.com/GToidZ/ku-polls)
+1. 🗣 Commented on [#2](https://github.com/WongNung/WongNung/issues/2) in [WongNung/WongNung](https://github.com/WongNung/WongNung)
+2. 🗣 Commented on [#2](https://github.com/WongNung/WongNung/issues/2) in [WongNung/WongNung](https://github.com/WongNung/WongNung)
+3. 🗣 Commented on [#2](https://github.com/WongNung/WongNung/issues/2) in [WongNung/WongNung](https://github.com/WongNung/WongNung)
+4. ❗️ Closed issue [#1](https://github.com/GToidZ/demo-pyci/issues/1) in [GToidZ/demo-pyci](https://github.com/GToidZ/demo-pyci)
 <!--END_SECTION:activity-->
 
 </details>
