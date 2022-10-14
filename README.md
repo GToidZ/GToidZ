@@ -79,10 +79,10 @@ Will be here soon enough.
 </summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1](https://github.com/LunaticNeko/01219114-2022f-w8-bag/issues/1) in [LunaticNeko/01219114-2022f-w8-bag](https://github.com/LunaticNeko/01219114-2022f-w8-bag)
-2. 🎉 Merged PR [#3](https://github.com/WongNung/WongNung/pull/3) in [WongNung/WongNung](https://github.com/WongNung/WongNung)
-3. 🗣 Commented on [#3](https://github.com/WongNung/WongNung/issues/3) in [WongNung/WongNung](https://github.com/WongNung/WongNung)
-4. 🗣 Commented on [#3](https://github.com/WongNung/WongNung/issues/3) in [WongNung/WongNung](https://github.com/WongNung/WongNung)
+1. 🗣 Commented on [#4](https://github.com/WongNung/WongNung/issues/4) in [WongNung/WongNung](https://github.com/WongNung/WongNung)
+2. 🎉 Merged PR [#4](https://github.com/WongNung/WongNung/pull/4) in [WongNung/WongNung](https://github.com/WongNung/WongNung)
+3. 🗣 Commented on [#4](https://github.com/WongNung/WongNung/issues/4) in [WongNung/WongNung](https://github.com/WongNung/WongNung)
+4. 💪 Opened PR [#4](https://github.com/WongNung/WongNung/pull/4) in [WongNung/WongNung](https://github.com/WongNung/WongNung)
 <!--END_SECTION:activity-->
 
 </details>
