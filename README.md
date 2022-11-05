@@ -79,10 +79,10 @@ Will be here soon enough.
 </summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#49](https://github.com/GToidZ/ku-polls/issues/49) in [GToidZ/ku-polls](https://github.com/GToidZ/ku-polls)
-2. 🎉 Merged PR [#30](https://github.com/WongNung/WongNung/pull/30) in [WongNung/WongNung](https://github.com/WongNung/WongNung)
-3. 💪 Opened PR [#30](https://github.com/WongNung/WongNung/pull/30) in [WongNung/WongNung](https://github.com/WongNung/WongNung)
-4. 🎉 Merged PR [#29](https://github.com/WongNung/WongNung/pull/29) in [WongNung/WongNung](https://github.com/WongNung/WongNung)
+1. 💪 Opened PR [#33](https://github.com/WongNung/WongNung/pull/33) in [WongNung/WongNung](https://github.com/WongNung/WongNung)
+2. 🗣 Commented on [#49](https://github.com/GToidZ/ku-polls/issues/49) in [GToidZ/ku-polls](https://github.com/GToidZ/ku-polls)
+3. 🎉 Merged PR [#30](https://github.com/WongNung/WongNung/pull/30) in [WongNung/WongNung](https://github.com/WongNung/WongNung)
+4. 💪 Opened PR [#30](https://github.com/WongNung/WongNung/pull/30) in [WongNung/WongNung](https://github.com/WongNung/WongNung)
 <!--END_SECTION:activity-->
 
 </details>
