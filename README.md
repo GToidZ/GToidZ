@@ -79,10 +79,10 @@ Will be here soon enough.
 </summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#70](https://github.com/WongNung/WongNung/pull/70) in [WongNung/WongNung](https://github.com/WongNung/WongNung)
-2. 💪 Opened PR [#70](https://github.com/WongNung/WongNung/pull/70) in [WongNung/WongNung](https://github.com/WongNung/WongNung)
-3. 🎉 Merged PR [#69](https://github.com/WongNung/WongNung/pull/69) in [WongNung/WongNung](https://github.com/WongNung/WongNung)
-4. 🗣 Commented on [#69](https://github.com/WongNung/WongNung/issues/69) in [WongNung/WongNung](https://github.com/WongNung/WongNung)
+1. 🗣 Commented on [#71](https://github.com/WongNung/WongNung/issues/71) in [WongNung/WongNung](https://github.com/WongNung/WongNung)
+2. 🎉 Merged PR [#70](https://github.com/WongNung/WongNung/pull/70) in [WongNung/WongNung](https://github.com/WongNung/WongNung)
+3. 💪 Opened PR [#70](https://github.com/WongNung/WongNung/pull/70) in [WongNung/WongNung](https://github.com/WongNung/WongNung)
+4. 🎉 Merged PR [#69](https://github.com/WongNung/WongNung/pull/69) in [WongNung/WongNung](https://github.com/WongNung/WongNung)
 <!--END_SECTION:activity-->
 
 </details>
