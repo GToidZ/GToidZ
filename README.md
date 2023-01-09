@@ -79,10 +79,10 @@ Will be here soon enough.
 </summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#7](https://github.com/Secret-Order/SKE19-Project-Archive/pull/7) in [Secret-Order/SKE19-Project-Archive](https://github.com/Secret-Order/SKE19-Project-Archive)
-2. 🗣 Commented on [#7](https://github.com/Secret-Order/SKE19-Project-Archive/issues/7) in [Secret-Order/SKE19-Project-Archive](https://github.com/Secret-Order/SKE19-Project-Archive)
-3. ❗️ Closed issue [#49](https://github.com/GToidZ/ku-polls/issues/49) in [GToidZ/ku-polls](https://github.com/GToidZ/ku-polls)
-4. 🎉 Merged PR [#86](https://github.com/WongNung/WongNung/pull/86) in [WongNung/WongNung](https://github.com/WongNung/WongNung)
+1. 🗣 Commented on [#1](https://github.com/WePays/ci-utils/issues/1) in [WePays/ci-utils](https://github.com/WePays/ci-utils)
+2. 🎉 Merged PR [#7](https://github.com/Secret-Order/SKE19-Project-Archive/pull/7) in [Secret-Order/SKE19-Project-Archive](https://github.com/Secret-Order/SKE19-Project-Archive)
+3. 🗣 Commented on [#7](https://github.com/Secret-Order/SKE19-Project-Archive/issues/7) in [Secret-Order/SKE19-Project-Archive](https://github.com/Secret-Order/SKE19-Project-Archive)
+4. ❗️ Closed issue [#49](https://github.com/GToidZ/ku-polls/issues/49) in [GToidZ/ku-polls](https://github.com/GToidZ/ku-polls)
 <!--END_SECTION:activity-->
 
 </details>
