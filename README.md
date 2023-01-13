@@ -59,7 +59,7 @@ I am currently a sophomore in Software and Knowledge Engineering at [Kasetsart U
 
 **Featured:**
 * **[WongNung](https://github.com/WongNung/WongNung)** - a community-based movie review aggregation website using Django. Worked on Full-Stack and DevOps, also a scrum master.
-* **[SOS11 Site](https://github.com/SOS-SKE20/SOS11)** - an educational website for the 11th SOS Camp, a Python training camp for KU juniors.
+* **[SOS11 Site](https://github.com/GToidZ/SOS11)** - an educational website for the 11th SOS Camp, a Python training camp for KU juniors.
 
 **Ongoing:**
 * **GDSC Solution Challenge 2023** - an attempt for a competition to develop a software that answers one or more of UN's SDGs. Currently working as Full-stack and DevOps.
