@@ -11,6 +11,8 @@
 
 You could also call me, Pawitchaya or Float.
 
+**Read my CV/Resume at https://gtoidz.github.io/resume/. I'm looking for a DevOps internship in Thailand or remote work.**
+
 <br />
 
 **🇹🇭 / 🇬🇧 | ACT54'37 | KU81 SKE19**
