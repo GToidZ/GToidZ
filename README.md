@@ -64,7 +64,10 @@ I am currently a sophomore in Software and Knowledge Engineering at [Kasetsart U
 * **[SOS11 Site](https://github.com/GToidZ/SOS11)** - an educational website for the 11th SOS Camp, a Python training camp for KU juniors.
 
 **Ongoing:**
-* **GDSC Solution Challenge 2023** - an attempt for a competition to develop a software that answers one or more of UN's SDGs. Currently working as Full-stack and DevOps.
+* **Ezra** - a static blog website generator that reads from your Git + Obsidian vault (or any Git repository that contains many markdown files), then deploys the website as GitHub Pages. Also a GitHub Action.
+
+**Postponed:**
+* **GDSC Solution Challenge** - an attempt for a competition to develop a software that answers one or more of UN's SDGs. Currently working as Full-stack and DevOps.
 
 </details>
 
