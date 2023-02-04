@@ -82,10 +82,10 @@ I am currently a sophomore in Software and Knowledge Engineering at [Kasetsart U
 </summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#4](https://github.com/GToidZ/dotcom-cafe/pull/4) in [GToidZ/dotcom-cafe](https://github.com/GToidZ/dotcom-cafe)
-2. 🗣 Commented on [#1](https://github.com/GToidZ/resume/issues/1) in [GToidZ/resume](https://github.com/GToidZ/resume)
-3. 🗣 Commented on [#1](https://github.com/WePays/ci-utils/issues/1) in [WePays/ci-utils](https://github.com/WePays/ci-utils)
-4. 🎉 Merged PR [#7](https://github.com/Secret-Order/SKE19-Project-Archive/pull/7) in [Secret-Order/SKE19-Project-Archive](https://github.com/Secret-Order/SKE19-Project-Archive)
+1. 🎉 Merged PR [#4](https://github.com/GToidZ/dotcom-cafe/pull/4) in [GToidZ/dotcom-cafe](https://github.com/GToidZ/dotcom-cafe)
+2. 💪 Opened PR [#4](https://github.com/GToidZ/dotcom-cafe/pull/4) in [GToidZ/dotcom-cafe](https://github.com/GToidZ/dotcom-cafe)
+3. 🗣 Commented on [#1](https://github.com/GToidZ/resume/issues/1) in [GToidZ/resume](https://github.com/GToidZ/resume)
+4. 🗣 Commented on [#1](https://github.com/WePays/ci-utils/issues/1) in [WePays/ci-utils](https://github.com/WePays/ci-utils)
 <!--END_SECTION:activity-->
 
 </details>
