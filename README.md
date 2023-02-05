@@ -82,10 +82,10 @@ I am currently a sophomore in Software and Knowledge Engineering at [Kasetsart U
 </summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1](https://github.com/eggceed/hardware-day1/issues/1) in [eggceed/hardware-day1](https://github.com/eggceed/hardware-day1)
-2. 🎉 Merged PR [#4](https://github.com/GToidZ/dotcom-cafe/pull/4) in [GToidZ/dotcom-cafe](https://github.com/GToidZ/dotcom-cafe)
-3. 💪 Opened PR [#4](https://github.com/GToidZ/dotcom-cafe/pull/4) in [GToidZ/dotcom-cafe](https://github.com/GToidZ/dotcom-cafe)
-4. 🗣 Commented on [#1](https://github.com/GToidZ/resume/issues/1) in [GToidZ/resume](https://github.com/GToidZ/resume)
+1. 🗣 Commented on [#2](https://github.com/eggceed/hardware-day1/issues/2) in [eggceed/hardware-day1](https://github.com/eggceed/hardware-day1)
+2. ❗️ Opened issue [#1](https://github.com/eggceed/hardware-day1/issues/1) in [eggceed/hardware-day1](https://github.com/eggceed/hardware-day1)
+3. 🎉 Merged PR [#4](https://github.com/GToidZ/dotcom-cafe/pull/4) in [GToidZ/dotcom-cafe](https://github.com/GToidZ/dotcom-cafe)
+4. 💪 Opened PR [#4](https://github.com/GToidZ/dotcom-cafe/pull/4) in [GToidZ/dotcom-cafe](https://github.com/GToidZ/dotcom-cafe)
 <!--END_SECTION:activity-->
 
 </details>
