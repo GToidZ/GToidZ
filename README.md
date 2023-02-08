@@ -82,10 +82,10 @@ I am currently a sophomore in Software and Knowledge Engineering at [Kasetsart U
 </summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/eggceed/Mini-Project/pull/1) in [eggceed/Mini-Project](https://github.com/eggceed/Mini-Project)
-2. 💪 Opened PR [#1](https://github.com/Bigtourlantaop/ex2-exceed-hardware-g3/pull/1) in [Bigtourlantaop/ex2-exceed-hardware-g3](https://github.com/Bigtourlantaop/ex2-exceed-hardware-g3)
-3. 🎉 Merged PR [#4](https://github.com/eggceed/hardware-day1/pull/4) in [eggceed/hardware-day1](https://github.com/eggceed/hardware-day1)
-4. 💪 Opened PR [#4](https://github.com/eggceed/hardware-day1/pull/4) in [eggceed/hardware-day1](https://github.com/eggceed/hardware-day1)
+1. 🎉 Merged PR [#5](https://github.com/eggceed/Mini-Project/pull/5) in [eggceed/Mini-Project](https://github.com/eggceed/Mini-Project)
+2. 💪 Opened PR [#5](https://github.com/eggceed/Mini-Project/pull/5) in [eggceed/Mini-Project](https://github.com/eggceed/Mini-Project)
+3. 🎉 Merged PR [#1](https://github.com/eggceed/Mini-Project/pull/1) in [eggceed/Mini-Project](https://github.com/eggceed/Mini-Project)
+4. 💪 Opened PR [#1](https://github.com/eggceed/Mini-Project/pull/1) in [eggceed/Mini-Project](https://github.com/eggceed/Mini-Project)
 <!--END_SECTION:activity-->
 
 </details>
