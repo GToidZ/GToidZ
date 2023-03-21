@@ -82,10 +82,10 @@ I am currently a sophomore in Software and Knowledge Engineering at [Kasetsart U
 </summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#7](https://github.com/GToidZ/dotcom-cafe/pull/7) in [GToidZ/dotcom-cafe](https://github.com/GToidZ/dotcom-cafe)
-2. 💪 Opened PR [#7](https://github.com/GToidZ/dotcom-cafe/pull/7) in [GToidZ/dotcom-cafe](https://github.com/GToidZ/dotcom-cafe)
-3. 🎉 Merged PR [#19](https://github.com/eggceed/fuiyoh/pull/19) in [eggceed/fuiyoh](https://github.com/eggceed/fuiyoh)
-4. 💪 Opened PR [#19](https://github.com/eggceed/fuiyoh/pull/19) in [eggceed/fuiyoh](https://github.com/eggceed/fuiyoh)
+1. 🎉 Merged PR [#5](https://github.com/GToidZ/GDSC-Todo/pull/5) in [GToidZ/GDSC-Todo](https://github.com/GToidZ/GDSC-Todo)
+2. 💪 Opened PR [#5](https://github.com/GToidZ/GDSC-Todo/pull/5) in [GToidZ/GDSC-Todo](https://github.com/GToidZ/GDSC-Todo)
+3. 🎉 Merged PR [#7](https://github.com/GToidZ/dotcom-cafe/pull/7) in [GToidZ/dotcom-cafe](https://github.com/GToidZ/dotcom-cafe)
+4. 💪 Opened PR [#7](https://github.com/GToidZ/dotcom-cafe/pull/7) in [GToidZ/dotcom-cafe](https://github.com/GToidZ/dotcom-cafe)
 <!--END_SECTION:activity-->
 
 </details>
