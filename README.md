@@ -82,10 +82,10 @@ I am currently a sophomore in Software and Knowledge Engineering at [Kasetsart U
 </summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/GToidZ/Todo-DB-Project/pull/1) in [GToidZ/Todo-DB-Project](https://github.com/GToidZ/Todo-DB-Project)
-2. 💪 Opened PR [#1](https://github.com/GToidZ/Todo-DB-Project/pull/1) in [GToidZ/Todo-DB-Project](https://github.com/GToidZ/Todo-DB-Project)
-3. 🎉 Merged PR [#7](https://github.com/GToidZ/GDSC-Todo/pull/7) in [GToidZ/GDSC-Todo](https://github.com/GToidZ/GDSC-Todo)
-4. 💪 Opened PR [#7](https://github.com/GToidZ/GDSC-Todo/pull/7) in [GToidZ/GDSC-Todo](https://github.com/GToidZ/GDSC-Todo)
+1. ❌ Closed PR [#2](https://github.com/GToidZ/Todo-DB-Project/pull/2) in [GToidZ/Todo-DB-Project](https://github.com/GToidZ/Todo-DB-Project)
+2. 🗣 Commented on [#2](https://github.com/GToidZ/Todo-DB-Project/issues/2) in [GToidZ/Todo-DB-Project](https://github.com/GToidZ/Todo-DB-Project)
+3. 🎉 Merged PR [#1](https://github.com/GToidZ/Todo-DB-Project/pull/1) in [GToidZ/Todo-DB-Project](https://github.com/GToidZ/Todo-DB-Project)
+4. 💪 Opened PR [#1](https://github.com/GToidZ/Todo-DB-Project/pull/1) in [GToidZ/Todo-DB-Project](https://github.com/GToidZ/Todo-DB-Project)
 <!--END_SECTION:activity-->
 
 </details>
