@@ -82,10 +82,10 @@ I am currently a sophomore in Software and Knowledge Engineering at [Kasetsart U
 </summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#6](https://github.com/GToidZ/Todo-DB-Project/pull/6) in [GToidZ/Todo-DB-Project](https://github.com/GToidZ/Todo-DB-Project)
-2. 💪 Opened PR [#6](https://github.com/GToidZ/Todo-DB-Project/pull/6) in [GToidZ/Todo-DB-Project](https://github.com/GToidZ/Todo-DB-Project)
-3. 🎉 Merged PR [#5](https://github.com/GToidZ/Todo-DB-Project/pull/5) in [GToidZ/Todo-DB-Project](https://github.com/GToidZ/Todo-DB-Project)
-4. 💪 Opened PR [#5](https://github.com/GToidZ/Todo-DB-Project/pull/5) in [GToidZ/Todo-DB-Project](https://github.com/GToidZ/Todo-DB-Project)
+1. 🗣 Commented on [#1](https://github.com/moons-landing/TurretsLasersMore/issues/1) in [moons-landing/TurretsLasersMore](https://github.com/moons-landing/TurretsLasersMore)
+2. 🎉 Merged PR [#6](https://github.com/GToidZ/Todo-DB-Project/pull/6) in [GToidZ/Todo-DB-Project](https://github.com/GToidZ/Todo-DB-Project)
+3. 💪 Opened PR [#6](https://github.com/GToidZ/Todo-DB-Project/pull/6) in [GToidZ/Todo-DB-Project](https://github.com/GToidZ/Todo-DB-Project)
+4. 🎉 Merged PR [#5](https://github.com/GToidZ/Todo-DB-Project/pull/5) in [GToidZ/Todo-DB-Project](https://github.com/GToidZ/Todo-DB-Project)
 <!--END_SECTION:activity-->
 
 </details>
