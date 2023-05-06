@@ -82,10 +82,10 @@ I am currently a sophomore in Software and Knowledge Engineering at [Kasetsart U
 </summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2](https://github.com/moons-landing/TurretsLasersMore/issues/2) in [moons-landing/TurretsLasersMore](https://github.com/moons-landing/TurretsLasersMore)
-2. ❗️ Opened issue [#2](https://github.com/moons-landing/TurretsLasersMore/issues/2) in [moons-landing/TurretsLasersMore](https://github.com/moons-landing/TurretsLasersMore)
-3. 🗣 Commented on [#1](https://github.com/moons-landing/TurretsLasersMore/issues/1) in [moons-landing/TurretsLasersMore](https://github.com/moons-landing/TurretsLasersMore)
-4. 🎉 Merged PR [#6](https://github.com/GToidZ/Todo-DB-Project/pull/6) in [GToidZ/Todo-DB-Project](https://github.com/GToidZ/Todo-DB-Project)
+1. ❗️ Opened issue [#4](https://github.com/moons-landing/TurretsLasersMore/issues/4) in [moons-landing/TurretsLasersMore](https://github.com/moons-landing/TurretsLasersMore)
+2. 🗣 Commented on [#2](https://github.com/moons-landing/TurretsLasersMore/issues/2) in [moons-landing/TurretsLasersMore](https://github.com/moons-landing/TurretsLasersMore)
+3. ❗️ Closed issue [#2](https://github.com/moons-landing/TurretsLasersMore/issues/2) in [moons-landing/TurretsLasersMore](https://github.com/moons-landing/TurretsLasersMore)
+4. 🗣 Commented on [#2](https://github.com/moons-landing/TurretsLasersMore/issues/2) in [moons-landing/TurretsLasersMore](https://github.com/moons-landing/TurretsLasersMore)
 <!--END_SECTION:activity-->
 
 </details>
