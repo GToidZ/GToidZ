@@ -82,10 +82,10 @@ I am currently a sophomore in Software and Knowledge Engineering at [Kasetsart U
 </summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#8](https://github.com/moons-landing/TurretsLasersMore/issues/8) in [moons-landing/TurretsLasersMore](https://github.com/moons-landing/TurretsLasersMore)
-2. 🎉 Merged PR [#8](https://github.com/moons-landing/TurretsLasersMore/pull/8) in [moons-landing/TurretsLasersMore](https://github.com/moons-landing/TurretsLasersMore)
-3. 💪 Opened PR [#8](https://github.com/moons-landing/TurretsLasersMore/pull/8) in [moons-landing/TurretsLasersMore](https://github.com/moons-landing/TurretsLasersMore)
-4. ❌ Closed PR [#7](https://github.com/moons-landing/TurretsLasersMore/pull/7) in [moons-landing/TurretsLasersMore](https://github.com/moons-landing/TurretsLasersMore)
+1. 💪 Opened PR [#9](https://github.com/moons-landing/TurretsLasersMore/pull/9) in [moons-landing/TurretsLasersMore](https://github.com/moons-landing/TurretsLasersMore)
+2. 🗣 Commented on [#8](https://github.com/moons-landing/TurretsLasersMore/issues/8) in [moons-landing/TurretsLasersMore](https://github.com/moons-landing/TurretsLasersMore)
+3. 🎉 Merged PR [#8](https://github.com/moons-landing/TurretsLasersMore/pull/8) in [moons-landing/TurretsLasersMore](https://github.com/moons-landing/TurretsLasersMore)
+4. 💪 Opened PR [#8](https://github.com/moons-landing/TurretsLasersMore/pull/8) in [moons-landing/TurretsLasersMore](https://github.com/moons-landing/TurretsLasersMore)
 <!--END_SECTION:activity-->
 
 </details>
