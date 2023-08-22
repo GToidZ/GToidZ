@@ -82,10 +82,10 @@ I am currently a sophomore in Software and Knowledge Engineering at [Kasetsart U
 </summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#14](https://github.com/D7NAMITE/ku-international-cafe/issues/14#issuecomment-1687675085) in [D7NAMITE/ku-international-cafe](https://github.com/D7NAMITE/ku-international-cafe)
-2. ❗ Opened issue [#14](https://github.com/D7NAMITE/ku-international-cafe/issues/14) in [D7NAMITE/ku-international-cafe](https://github.com/D7NAMITE/ku-international-cafe)
-3. ❗ Opened issue [#16](https://github.com/Sosokker/KU-Cafe/issues/16) in [Sosokker/KU-Cafe](https://github.com/Sosokker/KU-Cafe)
-4. ❗ Opened issue [#16](https://github.com/mjrchy/KU-international-cafe/issues/16) in [mjrchy/KU-international-cafe](https://github.com/mjrchy/KU-international-cafe)
+1. 🗣 Commented on [#16](https://github.com/Sosokker/KU-Cafe/issues/16#issuecomment-1687707758) in [Sosokker/KU-Cafe](https://github.com/Sosokker/KU-Cafe)
+2. 🗣 Commented on [#14](https://github.com/D7NAMITE/ku-international-cafe/issues/14#issuecomment-1687675085) in [D7NAMITE/ku-international-cafe](https://github.com/D7NAMITE/ku-international-cafe)
+3. ❗ Opened issue [#14](https://github.com/D7NAMITE/ku-international-cafe/issues/14) in [D7NAMITE/ku-international-cafe](https://github.com/D7NAMITE/ku-international-cafe)
+4. ❗ Opened issue [#16](https://github.com/Sosokker/KU-Cafe/issues/16) in [Sosokker/KU-Cafe](https://github.com/Sosokker/KU-Cafe)
 <!--END_SECTION:activity-->
 
 </details>
