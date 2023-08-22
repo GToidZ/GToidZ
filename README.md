@@ -82,10 +82,10 @@ I am currently a sophomore in Software and Knowledge Engineering at [Kasetsart U
 </summary>
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [1.0.0](https://github.com/moons-landing/TurretsLasersMore/releases/tag/1.0.0) in [moons-landing/TurretsLasersMore](https://github.com/moons-landing/TurretsLasersMore)
-2. 💪 Opened PR [#12](https://github.com/moons-landing/TurretsLasersMore/pull/12) in [moons-landing/TurretsLasersMore](https://github.com/moons-landing/TurretsLasersMore)
-3. 🎉 Merged PR [#11](https://github.com/moons-landing/TurretsLasersMore/pull/11) in [moons-landing/TurretsLasersMore](https://github.com/moons-landing/TurretsLasersMore)
-4. 🗣 Commented on [#10](https://github.com/moons-landing/TurretsLasersMore/issues/10#issuecomment-1544135857) in [moons-landing/TurretsLasersMore](https://github.com/moons-landing/TurretsLasersMore)
+1. ❗ Opened issue [#16](https://github.com/Sosokker/KU-Cafe/issues/16) in [Sosokker/KU-Cafe](https://github.com/Sosokker/KU-Cafe)
+2. ❗ Opened issue [#16](https://github.com/mjrchy/KU-international-cafe/issues/16) in [mjrchy/KU-international-cafe](https://github.com/mjrchy/KU-international-cafe)
+3. ❗ Opened issue [#14](https://github.com/Tharunthorn/Ku-Cafe/issues/14) in [Tharunthorn/Ku-Cafe](https://github.com/Tharunthorn/Ku-Cafe)
+4. ❗ Opened issue [#11](https://github.com/D7NAMITE/ku-international-cafe/issues/11) in [D7NAMITE/ku-international-cafe](https://github.com/D7NAMITE/ku-international-cafe)
 <!--END_SECTION:activity-->
 
 </details>
