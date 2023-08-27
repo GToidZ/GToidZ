@@ -82,10 +82,10 @@ I am currently a sophomore in Software and Knowledge Engineering at [Kasetsart U
 </summary>
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#2](https://github.com/oaoak/git-commands/issues/2) in [oaoak/git-commands](https://github.com/oaoak/git-commands)
-2. ❗ Opened issue [#1](https://github.com/Tharunthorn/git-commands/issues/1) in [Tharunthorn/git-commands](https://github.com/Tharunthorn/git-commands)
-3. ❗ Opened issue [#1](https://github.com/ProudHokori/git-commands/issues/1) in [ProudHokori/git-commands](https://github.com/ProudHokori/git-commands)
-4. ❗ Opened issue [#1](https://github.com/Unikorn996/git-commands/issues/1) in [Unikorn996/git-commands](https://github.com/Unikorn996/git-commands)
+1. ❗ Opened issue [#2](https://github.com/napon2545/git-commands/issues/2) in [napon2545/git-commands](https://github.com/napon2545/git-commands)
+2. ❗ Opened issue [#1](https://github.com/napon2545/git-commands/issues/1) in [napon2545/git-commands](https://github.com/napon2545/git-commands)
+3. ❗ Opened issue [#5](https://github.com/caneledip/git-commands/issues/5) in [caneledip/git-commands](https://github.com/caneledip/git-commands)
+4. ❗ Opened issue [#4](https://github.com/caneledip/git-commands/issues/4) in [caneledip/git-commands](https://github.com/caneledip/git-commands)
 <!--END_SECTION:activity-->
 
 </details>
