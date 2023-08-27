@@ -82,10 +82,10 @@ I am currently a sophomore in Software and Knowledge Engineering at [Kasetsart U
 </summary>
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#2](https://github.com/ThanadolU/git-commands/issues/2) in [ThanadolU/git-commands](https://github.com/ThanadolU/git-commands)
-2. 🗣 Commented on [#16](https://github.com/Sosokker/KU-Cafe/issues/16#issuecomment-1687707758) in [Sosokker/KU-Cafe](https://github.com/Sosokker/KU-Cafe)
-3. 🗣 Commented on [#14](https://github.com/D7NAMITE/ku-international-cafe/issues/14#issuecomment-1687675085) in [D7NAMITE/ku-international-cafe](https://github.com/D7NAMITE/ku-international-cafe)
-4. ❗ Opened issue [#14](https://github.com/D7NAMITE/ku-international-cafe/issues/14) in [D7NAMITE/ku-international-cafe](https://github.com/D7NAMITE/ku-international-cafe)
+1. ❗ Opened issue [#1](https://github.com/Tharunthorn/git-commands/issues/1) in [Tharunthorn/git-commands](https://github.com/Tharunthorn/git-commands)
+2. ❗ Opened issue [#1](https://github.com/ProudHokori/git-commands/issues/1) in [ProudHokori/git-commands](https://github.com/ProudHokori/git-commands)
+3. ❗ Opened issue [#1](https://github.com/Unikorn996/git-commands/issues/1) in [Unikorn996/git-commands](https://github.com/Unikorn996/git-commands)
+4. ❗ Opened issue [#5](https://github.com/sivazzer/git-commands/issues/5) in [sivazzer/git-commands](https://github.com/sivazzer/git-commands)
 <!--END_SECTION:activity-->
 
 </details>
