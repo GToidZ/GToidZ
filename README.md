@@ -82,10 +82,10 @@ I am currently a sophomore in Software and Knowledge Engineering at [Kasetsart U
 </summary>
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#2](https://github.com/napon2545/git-commands/issues/2) in [napon2545/git-commands](https://github.com/napon2545/git-commands)
-2. ❗ Opened issue [#1](https://github.com/napon2545/git-commands/issues/1) in [napon2545/git-commands](https://github.com/napon2545/git-commands)
-3. ❗ Opened issue [#5](https://github.com/caneledip/git-commands/issues/5) in [caneledip/git-commands](https://github.com/caneledip/git-commands)
-4. ❗ Opened issue [#4](https://github.com/caneledip/git-commands/issues/4) in [caneledip/git-commands](https://github.com/caneledip/git-commands)
+1. ❗ Opened issue [#5](https://github.com/mjrchy/git-commands-mjrchy/issues/5) in [mjrchy/git-commands-mjrchy](https://github.com/mjrchy/git-commands-mjrchy)
+2. ❗ Opened issue [#4](https://github.com/mjrchy/git-commands-mjrchy/issues/4) in [mjrchy/git-commands-mjrchy](https://github.com/mjrchy/git-commands-mjrchy)
+3. ❗ Opened issue [#3](https://github.com/mjrchy/git-commands-mjrchy/issues/3) in [mjrchy/git-commands-mjrchy](https://github.com/mjrchy/git-commands-mjrchy)
+4. ❗ Opened issue [#2](https://github.com/mjrchy/git-commands-mjrchy/issues/2) in [mjrchy/git-commands-mjrchy](https://github.com/mjrchy/git-commands-mjrchy)
 <!--END_SECTION:activity-->
 
 </details>
