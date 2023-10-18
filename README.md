@@ -82,10 +82,10 @@ I am currently a sophomore in Software and Knowledge Engineering at [Kasetsart U
 </summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/SPaM-Skill-Issue/sota-backend/issues/1#issuecomment-1767552113) in [SPaM-Skill-Issue/sota-backend](https://github.com/SPaM-Skill-Issue/sota-backend)
-2. 🔒 Closed issue [#1](https://github.com/SPaM-Skill-Issue/sota-backend/issues/1) in [SPaM-Skill-Issue/sota-backend](https://github.com/SPaM-Skill-Issue/sota-backend)
-3. 💪 Opened PR [#3](https://github.com/SPaM-Skill-Issue/sota-backend/pull/3) in [SPaM-Skill-Issue/sota-backend](https://github.com/SPaM-Skill-Issue/sota-backend)
-4. ❗ Opened issue [#2](https://github.com/SPaM-Skill-Issue/sota-backend/issues/2) in [SPaM-Skill-Issue/sota-backend](https://github.com/SPaM-Skill-Issue/sota-backend)
+1. 🔒 Closed issue [#2](https://github.com/SPaM-Skill-Issue/sota-backend/issues/2) in [SPaM-Skill-Issue/sota-backend](https://github.com/SPaM-Skill-Issue/sota-backend)
+2. 🎉 Merged PR [#3](https://github.com/SPaM-Skill-Issue/sota-backend/pull/3) in [SPaM-Skill-Issue/sota-backend](https://github.com/SPaM-Skill-Issue/sota-backend)
+3. 🗣 Commented on [#1](https://github.com/SPaM-Skill-Issue/sota-backend/issues/1#issuecomment-1767552113) in [SPaM-Skill-Issue/sota-backend](https://github.com/SPaM-Skill-Issue/sota-backend)
+4. 🔒 Closed issue [#1](https://github.com/SPaM-Skill-Issue/sota-backend/issues/1) in [SPaM-Skill-Issue/sota-backend](https://github.com/SPaM-Skill-Issue/sota-backend)
 <!--END_SECTION:activity-->
 
 </details>
