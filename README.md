@@ -82,10 +82,10 @@ I am currently a sophomore in Software and Knowledge Engineering at [Kasetsart U
 </summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#6](https://github.com/SPaM-Skill-Issue/sota-backend/pull/6) in [SPaM-Skill-Issue/sota-backend](https://github.com/SPaM-Skill-Issue/sota-backend)
-2. 🗣 Commented on [#5](https://github.com/SPaM-Skill-Issue/sota-backend/pull/5#issuecomment-1776610562) in [SPaM-Skill-Issue/sota-backend](https://github.com/SPaM-Skill-Issue/sota-backend)
-3. 💪 Opened PR [#5](https://github.com/SPaM-Skill-Issue/sota-backend/pull/5) in [SPaM-Skill-Issue/sota-backend](https://github.com/SPaM-Skill-Issue/sota-backend)
-4. 🎉 Merged PR [#1](https://github.com/RyukungG/Test-battle-ball/pull/1) in [RyukungG/Test-battle-ball](https://github.com/RyukungG/Test-battle-ball)
+1. 🎉 Merged PR [#5](https://github.com/SPaM-Skill-Issue/sota-backend/pull/5) in [SPaM-Skill-Issue/sota-backend](https://github.com/SPaM-Skill-Issue/sota-backend)
+2. 🎉 Merged PR [#6](https://github.com/SPaM-Skill-Issue/sota-backend/pull/6) in [SPaM-Skill-Issue/sota-backend](https://github.com/SPaM-Skill-Issue/sota-backend)
+3. 💪 Opened PR [#6](https://github.com/SPaM-Skill-Issue/sota-backend/pull/6) in [SPaM-Skill-Issue/sota-backend](https://github.com/SPaM-Skill-Issue/sota-backend)
+4. 🗣 Commented on [#5](https://github.com/SPaM-Skill-Issue/sota-backend/pull/5#issuecomment-1776610562) in [SPaM-Skill-Issue/sota-backend](https://github.com/SPaM-Skill-Issue/sota-backend)
 <!--END_SECTION:activity-->
 
 </details>
