@@ -82,10 +82,10 @@ I am currently a sophomore in Software and Knowledge Engineering at [Kasetsart U
 </summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#10](https://github.com/ku-t3ch/ku-hackathon/pull/10#issuecomment-1784190231) in [ku-t3ch/ku-hackathon](https://github.com/ku-t3ch/ku-hackathon)
-2. 💪 Opened PR [#10](https://github.com/ku-t3ch/ku-hackathon/pull/10) in [ku-t3ch/ku-hackathon](https://github.com/ku-t3ch/ku-hackathon)
-3. 💪 Opened PR [#5](https://github.com/ku-t3ch/ku-hackathon/pull/5) in [ku-t3ch/ku-hackathon](https://github.com/ku-t3ch/ku-hackathon)
-4. 💪 Opened PR [#8](https://github.com/SPaM-Skill-Issue/sota-backend/pull/8) in [SPaM-Skill-Issue/sota-backend](https://github.com/SPaM-Skill-Issue/sota-backend)
+1. 🗣 Commented on [#10](https://github.com/ku-t3ch/ku-hackathon/pull/10#issuecomment-1784193307) in [ku-t3ch/ku-hackathon](https://github.com/ku-t3ch/ku-hackathon)
+2. 🗣 Commented on [#10](https://github.com/ku-t3ch/ku-hackathon/pull/10#issuecomment-1784190231) in [ku-t3ch/ku-hackathon](https://github.com/ku-t3ch/ku-hackathon)
+3. 💪 Opened PR [#10](https://github.com/ku-t3ch/ku-hackathon/pull/10) in [ku-t3ch/ku-hackathon](https://github.com/ku-t3ch/ku-hackathon)
+4. 💪 Opened PR [#5](https://github.com/ku-t3ch/ku-hackathon/pull/5) in [ku-t3ch/ku-hackathon](https://github.com/ku-t3ch/ku-hackathon)
 <!--END_SECTION:activity-->
 
 </details>
