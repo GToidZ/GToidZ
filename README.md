@@ -82,10 +82,10 @@ I am currently a sophomore in Software and Knowledge Engineering at [Kasetsart U
 </summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#5](https://github.com/xNatthapol/SIP/issues/5#issuecomment-1797089328) in [xNatthapol/SIP](https://github.com/xNatthapol/SIP)
-2. 💪 Opened PR [#17](https://github.com/ku-t3ch/ku-hackathon/pull/17) in [ku-t3ch/ku-hackathon](https://github.com/ku-t3ch/ku-hackathon)
-3. 🗣 Commented on [#16](https://github.com/ku-t3ch/ku-hackathon/pull/16#issuecomment-1793363634) in [ku-t3ch/ku-hackathon](https://github.com/ku-t3ch/ku-hackathon)
-4. ❌ Closed PR [#16](https://github.com/ku-t3ch/ku-hackathon/pull/16) in [ku-t3ch/ku-hackathon](https://github.com/ku-t3ch/ku-hackathon)
+1. 💪 Opened PR [#4](https://github.com/SPaM-Skill-Issue/sota-frontend/pull/4) in [SPaM-Skill-Issue/sota-frontend](https://github.com/SPaM-Skill-Issue/sota-frontend)
+2. 🗣 Commented on [#5](https://github.com/xNatthapol/SIP/issues/5#issuecomment-1797089328) in [xNatthapol/SIP](https://github.com/xNatthapol/SIP)
+3. 💪 Opened PR [#17](https://github.com/ku-t3ch/ku-hackathon/pull/17) in [ku-t3ch/ku-hackathon](https://github.com/ku-t3ch/ku-hackathon)
+4. 🗣 Commented on [#16](https://github.com/ku-t3ch/ku-hackathon/pull/16#issuecomment-1793363634) in [ku-t3ch/ku-hackathon](https://github.com/ku-t3ch/ku-hackathon)
 <!--END_SECTION:activity-->
 
 </details>
