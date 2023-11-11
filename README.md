@@ -82,10 +82,10 @@ I am currently a sophomore in Software and Knowledge Engineering at [Kasetsart U
 </summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#7](https://github.com/SPaM-Skill-Issue/sota-frontend/pull/7) in [SPaM-Skill-Issue/sota-frontend](https://github.com/SPaM-Skill-Issue/sota-frontend)
-2. 💪 Opened PR [#4](https://github.com/SPaM-Skill-Issue/sota-frontend/pull/4) in [SPaM-Skill-Issue/sota-frontend](https://github.com/SPaM-Skill-Issue/sota-frontend)
-3. 🗣 Commented on [#5](https://github.com/xNatthapol/SIP/issues/5#issuecomment-1797089328) in [xNatthapol/SIP](https://github.com/xNatthapol/SIP)
-4. 💪 Opened PR [#17](https://github.com/ku-t3ch/ku-hackathon/pull/17) in [ku-t3ch/ku-hackathon](https://github.com/ku-t3ch/ku-hackathon)
+1. 🎉 Merged PR [#7](https://github.com/SPaM-Skill-Issue/sota-frontend/pull/7) in [SPaM-Skill-Issue/sota-frontend](https://github.com/SPaM-Skill-Issue/sota-frontend)
+2. 💪 Opened PR [#7](https://github.com/SPaM-Skill-Issue/sota-frontend/pull/7) in [SPaM-Skill-Issue/sota-frontend](https://github.com/SPaM-Skill-Issue/sota-frontend)
+3. 💪 Opened PR [#4](https://github.com/SPaM-Skill-Issue/sota-frontend/pull/4) in [SPaM-Skill-Issue/sota-frontend](https://github.com/SPaM-Skill-Issue/sota-frontend)
+4. 🗣 Commented on [#5](https://github.com/xNatthapol/SIP/issues/5#issuecomment-1797089328) in [xNatthapol/SIP](https://github.com/xNatthapol/SIP)
 <!--END_SECTION:activity-->
 
 </details>
