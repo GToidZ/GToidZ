@@ -82,10 +82,10 @@ I am currently a sophomore in Software and Knowledge Engineering at [Kasetsart U
 </summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#21](https://github.com/SPaM-Skill-Issue/sota-frontend/pull/21#issuecomment-1818385582) in [SPaM-Skill-Issue/sota-frontend](https://github.com/SPaM-Skill-Issue/sota-frontend)
-2. 💪 Opened PR [#20](https://github.com/SPaM-Skill-Issue/sota-frontend/pull/20) in [SPaM-Skill-Issue/sota-frontend](https://github.com/SPaM-Skill-Issue/sota-frontend)
-3. 🗣 Commented on [#18](https://github.com/SPaM-Skill-Issue/sota-frontend/issues/18#issuecomment-1817446340) in [SPaM-Skill-Issue/sota-frontend](https://github.com/SPaM-Skill-Issue/sota-frontend)
-4. 🔒 Closed issue [#18](https://github.com/SPaM-Skill-Issue/sota-frontend/issues/18) in [SPaM-Skill-Issue/sota-frontend](https://github.com/SPaM-Skill-Issue/sota-frontend)
+1. 🎉 Merged PR [#2](https://github.com/GToidZ/duemdumb-ontology/pull/2) in [GToidZ/duemdumb-ontology](https://github.com/GToidZ/duemdumb-ontology)
+2. 💪 Opened PR [#2](https://github.com/GToidZ/duemdumb-ontology/pull/2) in [GToidZ/duemdumb-ontology](https://github.com/GToidZ/duemdumb-ontology)
+3. 🗣 Commented on [#21](https://github.com/SPaM-Skill-Issue/sota-frontend/pull/21#issuecomment-1818385582) in [SPaM-Skill-Issue/sota-frontend](https://github.com/SPaM-Skill-Issue/sota-frontend)
+4. 💪 Opened PR [#20](https://github.com/SPaM-Skill-Issue/sota-frontend/pull/20) in [SPaM-Skill-Issue/sota-frontend](https://github.com/SPaM-Skill-Issue/sota-frontend)
 <!--END_SECTION:activity-->
 
 </details>
