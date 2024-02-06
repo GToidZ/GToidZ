@@ -11,7 +11,7 @@
 
 You could also call me, Pawitchaya or Float.
 
-**Read my CV/Resume at https://gtoidz.github.io/resume/. I'm looking for a DevOps internship in Thailand or remote work.**
+**Read my CV/Resume at https://gtoidz-resume.vercel.app/. I've found and attended internship at the current moment.**
 
 <br />
 
