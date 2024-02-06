@@ -31,7 +31,7 @@ You could also call me, Pawitchaya or Float.
 
 **Learning and improving:** ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=flat-square&logo=rust&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=flat-square&logo=gnu-bash&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=flat-square&logo=kotlin&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=flat-square&logo=terraform&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
 
-I am currently a sophomore in Software and Knowledge Engineering at [Kasetsart University](https://www.ku.ac.th/).
+I am currently a junior in Software and Knowledge Engineering at [Kasetsart University](https://www.ku.ac.th/).
 
 ---
 
