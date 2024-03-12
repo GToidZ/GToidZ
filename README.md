@@ -82,7 +82,7 @@ I am currently a junior in Software and Knowledge Engineering at [Kasetsart Univ
 </summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#4](https://github.com/GToidZ/duemdumb-ontology/pull/4) in [GToidZ/duemdumb-ontology](https://github.com/GToidZ/duemdumb-ontology)
+1. ❗ Opened issue [#1](https://github.com/Secret-Order/KU-SKE-SRS-LaTeX/issues/1) in [Secret-Order/KU-SKE-SRS-LaTeX](https://github.com/Secret-Order/KU-SKE-SRS-LaTeX)
 2. 💪 Opened PR [#4](https://github.com/GToidZ/duemdumb-ontology/pull/4) in [GToidZ/duemdumb-ontology](https://github.com/GToidZ/duemdumb-ontology)
 3. 🎉 Merged PR [#2](https://github.com/GToidZ/duemdumb-ontology/pull/2) in [GToidZ/duemdumb-ontology](https://github.com/GToidZ/duemdumb-ontology)
 4. 💪 Opened PR [#2](https://github.com/GToidZ/duemdumb-ontology/pull/2) in [GToidZ/duemdumb-ontology](https://github.com/GToidZ/duemdumb-ontology)
