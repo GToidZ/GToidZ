@@ -1,7 +1,4 @@
-❤ *use dark theme!* q(≧▽≦q)
-
 <p align="center">
-  <img src="https://media.discordapp.net/attachments/891757606044073995/993703776647123024/gtzlogo.png" alt="Logo">
   <p align="center"><i>A learner and a hobbyist developer from Thailand.</i></p>
 </p>
 
@@ -73,13 +70,7 @@ I am currently a junior in Software and Knowledge Engineering at [Kasetsart Univ
 
 ---
 
-<details>
-
-<summary>
-
-### 🌠 Recent Activities
-
-</summary>
+<h4>🌠 Recent Activities</h4>
 
 <!--START_SECTION:activity-->
 1. 🎉 Merged PR [#2](https://github.com/Secret-Order/KU-SKE-SRS-LaTeX/pull/2) in [Secret-Order/KU-SKE-SRS-LaTeX](https://github.com/Secret-Order/KU-SKE-SRS-LaTeX)
@@ -87,8 +78,6 @@ I am currently a junior in Software and Knowledge Engineering at [Kasetsart Univ
 3. ❗ Opened issue [#1](https://github.com/Secret-Order/KU-SKE-SRS-LaTeX/issues/1) in [Secret-Order/KU-SKE-SRS-LaTeX](https://github.com/Secret-Order/KU-SKE-SRS-LaTeX)
 4. 💪 Opened PR [#2](https://github.com/GToidZ/duemdumb-ontology/pull/2) in [GToidZ/duemdumb-ontology](https://github.com/GToidZ/duemdumb-ontology)
 <!--END_SECTION:activity-->
-
-</details>
 
 ---
 An organization lead at [Secret Order](https://github.com/Secret-Order)
