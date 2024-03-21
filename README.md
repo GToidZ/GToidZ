@@ -73,10 +73,10 @@ I am currently a junior in Software and Knowledge Engineering at [Kasetsart Univ
 <h4>🌠 Recent Activities</h4>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/Secret-Order/KU-SKE-SRS-LaTeX/pull/2) in [Secret-Order/KU-SKE-SRS-LaTeX](https://github.com/Secret-Order/KU-SKE-SRS-LaTeX)
-2. 💪 Opened PR [#2](https://github.com/Secret-Order/KU-SKE-SRS-LaTeX/pull/2) in [Secret-Order/KU-SKE-SRS-LaTeX](https://github.com/Secret-Order/KU-SKE-SRS-LaTeX)
-3. ❗ Opened issue [#1](https://github.com/Secret-Order/KU-SKE-SRS-LaTeX/issues/1) in [Secret-Order/KU-SKE-SRS-LaTeX](https://github.com/Secret-Order/KU-SKE-SRS-LaTeX)
-4. 💪 Opened PR [#2](https://github.com/GToidZ/duemdumb-ontology/pull/2) in [GToidZ/duemdumb-ontology](https://github.com/GToidZ/duemdumb-ontology)
+1. 🎉 Merged PR [#3](https://github.com/Secret-Order/KU-SKE-SRS-LaTeX/pull/3) in [Secret-Order/KU-SKE-SRS-LaTeX](https://github.com/Secret-Order/KU-SKE-SRS-LaTeX)
+2. 💪 Opened PR [#3](https://github.com/Secret-Order/KU-SKE-SRS-LaTeX/pull/3) in [Secret-Order/KU-SKE-SRS-LaTeX](https://github.com/Secret-Order/KU-SKE-SRS-LaTeX)
+3. 🎉 Merged PR [#2](https://github.com/Secret-Order/KU-SKE-SRS-LaTeX/pull/2) in [Secret-Order/KU-SKE-SRS-LaTeX](https://github.com/Secret-Order/KU-SKE-SRS-LaTeX)
+4. 💪 Opened PR [#2](https://github.com/Secret-Order/KU-SKE-SRS-LaTeX/pull/2) in [Secret-Order/KU-SKE-SRS-LaTeX](https://github.com/Secret-Order/KU-SKE-SRS-LaTeX)
 <!--END_SECTION:activity-->
 
 ---
