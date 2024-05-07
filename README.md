@@ -73,10 +73,10 @@ I am currently a junior in Software and Knowledge Engineering at [Kasetsart Univ
 <h4>🌠 Recent Activities</h4>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/skesa24/pawitchaya-list-lab/pull/1) in [skesa24/pawitchaya-list-lab](https://github.com/skesa24/pawitchaya-list-lab)
-2. 🎉 Merged PR [#1](https://github.com/SKESA24/laraone-example/pull/1) in [SKESA24/laraone-example](https://github.com/SKESA24/laraone-example)
-3. 🎉 Merged PR [#3](https://github.com/Secret-Order/KU-SKE-SRS-LaTeX/pull/3) in [Secret-Order/KU-SKE-SRS-LaTeX](https://github.com/Secret-Order/KU-SKE-SRS-LaTeX)
-4. 💪 Opened PR [#3](https://github.com/Secret-Order/KU-SKE-SRS-LaTeX/pull/3) in [Secret-Order/KU-SKE-SRS-LaTeX](https://github.com/Secret-Order/KU-SKE-SRS-LaTeX)
+1. 🎉 Merged PR [#87](https://github.com/WongNung/WongNung/pull/87) in [WongNung/WongNung](https://github.com/WongNung/WongNung)
+2. 💪 Opened PR [#87](https://github.com/WongNung/WongNung/pull/87) in [WongNung/WongNung](https://github.com/WongNung/WongNung)
+3. 🎉 Merged PR [#1](https://github.com/skesa24/pawitchaya-list-lab/pull/1) in [skesa24/pawitchaya-list-lab](https://github.com/skesa24/pawitchaya-list-lab)
+4. 🎉 Merged PR [#1](https://github.com/SKESA24/laraone-example/pull/1) in [SKESA24/laraone-example](https://github.com/SKESA24/laraone-example)
 <!--END_SECTION:activity-->
 
 ---
