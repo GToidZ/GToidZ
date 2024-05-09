@@ -73,10 +73,10 @@ I am currently a junior in Software and Knowledge Engineering at [Kasetsart Univ
 <h4>🌠 Recent Activities</h4>
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#91](https://github.com/WongNung/WongNung/issues/91) in [WongNung/WongNung](https://github.com/WongNung/WongNung)
-2. 🎉 Merged PR [#87](https://github.com/WongNung/WongNung/pull/87) in [WongNung/WongNung](https://github.com/WongNung/WongNung)
-3. 💪 Opened PR [#87](https://github.com/WongNung/WongNung/pull/87) in [WongNung/WongNung](https://github.com/WongNung/WongNung)
-4. 🎉 Merged PR [#1](https://github.com/skesa24/pawitchaya-list-lab/pull/1) in [skesa24/pawitchaya-list-lab](https://github.com/skesa24/pawitchaya-list-lab)
+1. 🎉 Merged PR [#95](https://github.com/WongNung/WongNung/pull/95) in [WongNung/WongNung](https://github.com/WongNung/WongNung)
+2. 💪 Opened PR [#95](https://github.com/WongNung/WongNung/pull/95) in [WongNung/WongNung](https://github.com/WongNung/WongNung)
+3. 🎉 Merged PR [#94](https://github.com/WongNung/WongNung/pull/94) in [WongNung/WongNung](https://github.com/WongNung/WongNung)
+4. 💪 Opened PR [#94](https://github.com/WongNung/WongNung/pull/94) in [WongNung/WongNung](https://github.com/WongNung/WongNung)
 <!--END_SECTION:activity-->
 
 ---
