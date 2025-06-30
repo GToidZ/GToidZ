@@ -8,7 +8,7 @@
 
 You could also call me, Pawitchaya or Float.
 
-**Read my CV/Resume at https://resume-gtoidz.vercel.app/. Pursuing my last year for the Bachelor's.**
+**Read my CV/Resume at https://resume-gtoidz.vercel.app/. Just graduated and I'm looking for opportunities.**
 
 <br />
 
