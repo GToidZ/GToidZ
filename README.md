@@ -26,23 +26,7 @@ You could also call me, Pawitchaya or Float.
 
 **Learning and improving:** ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=flat-square&logo=rust&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=flat-square&logo=kotlin&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=flat-square&logo=terraform&logoColor=white) ![AWS](https://img.shields.io/badge/aws-%23FF9900.svg?style=flat-square)
 
-I have graduated in Software and Knowledge Engineering at [Kasetsart University](https://www.ku.ac.th/).
-
----
-
-<details>
-
-<summary>
-
-  ### 📊 My Github Stats
-
-</summary>
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gtoidz&theme=synthwave&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=gtoidz&layout=compact&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
-
-</details>
+I have graduated in Software and Knowledge Engineering from [Kasetsart University](https://www.ku.ac.th/).
 
 ---
 
