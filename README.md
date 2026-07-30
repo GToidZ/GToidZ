@@ -12,7 +12,7 @@ You could also call me, Pawitchaya or Float.
 
 <br />
 
-**🇹🇭 / 🇬🇧 | ACT54'37 | KU81 SKE19**
+**🇹🇭 / 🇬🇧 / 🇯🇵は少ししか | ACT54'37 | KU81 SKE19 | KIT Infosci**
 
 **My Skills (proficient):**
 
@@ -26,7 +26,11 @@ You could also call me, Pawitchaya or Float.
 
 **Learning and improving:** ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=flat-square&logo=rust&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=flat-square&logo=kotlin&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=flat-square&logo=terraform&logoColor=white) ![AWS](https://img.shields.io/badge/aws-%23FF9900.svg?style=flat-square)
 
-I have graduated in Software and Knowledge Engineering from [Kasetsart University](https://www.ku.ac.th/).
+**Education:**
+
+I am pursuing Master's Degree in Information Science at [Kyoto Institute of Technology](https://www.kit.ac.jp/).
+
+I have graduated class of 2025 and awarded B.Eng. from Software and Knowledge Engineering course at [Kasetsart University](https://www.ku.ac.th/).
 
 ---
 
